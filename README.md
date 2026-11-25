@@ -1,1 +1,1 @@
-# Prueba_clase
+print("Hola mundo")
