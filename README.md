@@ -1,2 +1,2 @@
-print("Hola mundo")
-print("otro amor que de repente fracaso")
+print ("Hola mundo")
+print ("otro amor que de repente fracaso")
